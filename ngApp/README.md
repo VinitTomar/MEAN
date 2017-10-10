@@ -1,3 +1,3 @@
 # Follow these command to run this project
-ng build
-node server.js
+1. ng build
+2. node server.js
