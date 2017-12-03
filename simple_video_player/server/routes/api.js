@@ -4,7 +4,7 @@ const Video = require('../models/videos');
 
 const router = express.Router();
 
-const db = "mongodb://vinit:tomar@ds113795.mlab.com:13795/vinitvideoplayer";
+const db = "mongodb://<username>:<password>@ds113795.mlab.com:13795/vinitvideoplayer";
 mongoose.Promise = global.Promise;
 
 mongoose.connect(db,function(err){
