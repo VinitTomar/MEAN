@@ -1,6 +1,2 @@
-# First install dependencies by running following command
-1. npm install
-
-# Follow these command to run this project
-1. ng build
-2. node server.js
+# Step for running this app
+1. Download Install npm(node package manager) and node.js
